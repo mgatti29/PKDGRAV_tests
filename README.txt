@@ -13,6 +13,9 @@
  make check
  make install
 
+ Make sure you have cmake instelled
+ https://cmake.org/download/
+
 
  
 
